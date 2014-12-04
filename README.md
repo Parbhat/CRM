@@ -36,7 +36,7 @@ mysql> CREATE DATABASE crm;
 ```
 ###Create the necessary Tables in the crm Database
 
-This repository contains a sql file called **database.sql** which contains all the sql queries for creating Tables. The database can be imported with the folowing command.
+This repository contains a sql file called **database.sql** which contains all the sql queries for creating Tables. The database can be imported with the following command.
 
 ```
 mysql -u username -p databasename < filename.sql
